@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLockerSample</string>
+    <string name="title_home">Home</string>
+    <string name="title_subscriptions">Subscriptions</string>
+    <string name="existingApp">Existing App Content</string>
+    <string name="store_url">https://sandbox.flexcheck.io/store/applocker-demo</string>
+    <string name="customer_api_url">https://sandbox.flexcheck.io/customer</string>
+</resources>
